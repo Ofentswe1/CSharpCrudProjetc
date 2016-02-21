@@ -26,7 +26,7 @@
 
 ## Run the C# program by pressing the green button ![start](image/start.PNG)
 
-### The First Screen that will appear should be this 
+### The First Screen that will appear should be this   
 ![Admin login](image/Picture1.png)
 ** Enter one of the username and corresponding password from the database **
 ** The password is wrong , you will recieve this error message **  
@@ -39,11 +39,11 @@
 ![Users](image/users.PNG) 
 
 ** If Delete button is pressed, you must be able to see the following form ** 
-![Users](image/Picture5.PNG)
+![Users](image/Picture5.png)
 
 ** If Add User button is pressed, you must be able to see the below form , and you will be able to add user** 
-![Users](image/Picture4.PNG)  
+![Users](image/Picture4.png)  
 
 ** If Update button is pressed, you must be able to see the below form , and you will be able to select a specific user and  Update password ** 
-![Users](image/Picture6.PNG) 
+![Users](image/Picture6.png) 
 
