@@ -19,18 +19,18 @@
 ### You might get error concerning mysql this will be solved by right cliking on the project and click add reference and choose/tick mysql extension and it will be solved, make sure you installed packages successfully and properly 
 
 
-## Change The following Lines Below for your own use in file Named  *MySqlAuth.cs*
-![mysqlAuth](image/Auth.PNG)
+## Change The following Lines Below for your own use in file Named  *MySqlAuth.cs*  
+  ![mysqlAuth](image/Auth.PNG)
 
 ** Make sure that XAMPP is running (MySQL and Apache) **  
 
 ## Run the C# program by pressing the green button ![start](image/start.PNG)
 
-### The First Screen that will appear should be this   
-![Admin login](image/Picture1.png)
-** Enter one of the username and corresponding password from the database **
-** The password is wrong , you will recieve this error message **  
-![Errombox](image/Picture2.png)
+### The First Screen that will appear should be this     
+![Admin login](image/Picture1.png)   
+** Enter one of the username and corresponding password from the database **   
+** The password is wrong , you will recieve this error message **   
+![Errombox](image/Picture2.png)    
 
 ** If you are successfully loggedin you should have this screen **  
 ![MenuOptions](image/Picture3.png)
@@ -47,3 +47,6 @@
 ** If Update button is pressed, you must be able to see the below form , and you will be able to select a specific user and  Update password ** 
 ![Users](image/Picture6.png) 
 
+:+1: :octocat:    
+
+### Cheers
